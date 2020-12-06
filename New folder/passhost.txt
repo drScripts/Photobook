@@ -1,0 +1,13 @@
+(Hostingan)
+epiz_26144612
+nYlXNzc00JP8u
+ftpupload.net
+21
+
+
+(database host)
+
+MYSQL DB Name = epiz_26144612_claresta
+MYSQL USER Name = epiz_26144612
+MYSQL Password  = nYlXNzc00JP8u
+MYSQL HOST NAME = sql110.epizy.com
